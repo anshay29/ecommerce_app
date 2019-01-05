@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BGMS</string>
+
+    <!--Login Activity-->
+    <string name="emailHint">abc@xyz.com</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButton">Log In</string>
+
+
+
+</resources>

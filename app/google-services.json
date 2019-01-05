@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "10807408373",
+    "firebase_url": "https://bgms-edcae.firebaseio.com",
+    "project_id": "bgms-edcae",
+    "storage_bucket": "bgms-edcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10807408373:android:67183d587983ee0b",
+        "android_client_info": {
+          "package_name": "com.example.ansha.bgms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10807408373-q5dl7cvijck6t8iqdfag41r4nv72unsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ansha.bgms",
+            "certificate_hash": "e9ab573dd9da17d0770d998aef76f58db7be1b11"
+          }
+        },
+        {
+          "client_id": "10807408373-etqbgji7r0m4d6ml2m519rfhjjkdsent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytcGI7omMZ4rLlt36dlCeRlJDlJdHwbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10807408373-etqbgji7r0m4d6ml2m519rfhjjkdsent.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
